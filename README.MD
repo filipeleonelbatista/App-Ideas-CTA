@@ -3,8 +3,8 @@
 # Indice
 
 - [Sobre](#-sobre)
-- [Aprendizados](#-aprendizados)
-- [Download](#-Download)
+- [Aprendizados](#Aprendizados)
+- [Download](#Download)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ## 🔖&nbsp; Sobre
