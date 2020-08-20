@@ -28,7 +28,7 @@ Conhecimentos que adquiri neste projeto:
 ## Download
 
 <p>
-    <a href="assets/Countdown-Timer-App.apk">
+    <a href="https://github.com/modernfunkboss/App-Ideas-CTA/raw/master/assets/Countdown-Timer-App.apk">
         <img width="150" src="assets/android.svg">
     </a>
     <a href="#">
@@ -60,7 +60,7 @@ Conhecimentos que adquiri neste projeto:
 <p align="center">  
     Entre em contato comigo
     <br />
-    <a href="mailto:filipe.x2016@gmail.com">
+    <a href="https://www.linkedin.com/in/filipelbatista/">
         <img src="https://img.shields.io/badge/-filipelbatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipelbatista/">
     </a>
     <a href="mailto:filipe.x2016@gmail.com">
