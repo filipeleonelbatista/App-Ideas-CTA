@@ -28,7 +28,7 @@ Conhecimentos que adquiri neste projeto:
 ## Download
 
 <p>
-    <a href="https://github.com/modernfunkboss/App-Ideas-CTA/raw/master/assets/Countdown-Timer-App.apk">
+    <a href="https://github.com/filippeleonelbatista/App-Ideas-CTA/raw/master/assets/Countdown-Timer-App.apk">
         <img width="150" src="assets/android.svg">
     </a>
     <a href="#">
@@ -43,7 +43,7 @@ Conhecimentos que adquiri neste projeto:
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/modernfunkboss/App-Ideas-CTA.git
+    $ git clone https://github.com/filipeleonelbatista/App-Ideas-CTA.git
 
     # Entrar no diretório desejado
     $ cd mobile
