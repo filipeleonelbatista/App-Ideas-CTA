@@ -54,17 +54,22 @@ Conhecimentos que adquiri neste projeto:
     # Iniciar o projeto
     $ yarn start
 ```
-
 ---
 
 <p align="center">  
     Entre em contato comigo
     <br />
+    <br />
     <a href="https://www.linkedin.com/in/filipelbatista/">
-        <img src="https://img.shields.io/badge/-filipelbatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipelbatista/">
+        <img alt="LinkedIn" width="22px" src="./.github/052-linkedin.svg" />
     </a>
+    &ensp;
     <a href="mailto:filipe.x2016@gmail.com">
-        <img src="https://img.shields.io/badge/-filipe.x2016@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipe.x2016@gmail.com">
+        <img alt="Email" width="22px" src="./.github/gmail.svg" />
+    </a>
+    &ensp;
+    <a href="https://instagram.com/filipegaucho22">
+        <img alt="Instagram" width="22px" src="./.github/044-instagram.svg" />
     </a>
     <br />
     <br />
