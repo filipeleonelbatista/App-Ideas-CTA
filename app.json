@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "App-Ideas-CTA",
+    "name": "Cronometro",
     "slug": "App-Ideas-CTA",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,23 +8,29 @@
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "cover",
+      "backgroundColor": "#FBDC25"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "package": "com.filipeleonelbatista.cta",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#FBDC25"
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a8b0362a-d848-4003-be9f-168f5f057720"
+      }
+    },
+    "owner": "filipeleonelbatista"
   }
 }
